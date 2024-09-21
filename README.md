@@ -48,7 +48,12 @@ B-Intel Chat-App is a comprehensive chat application designed to streamline comm
 ## Image Previews
 ![alt text](<./assets/Screenshot 2024-09-21 101330.png>) 
 ![alt text](<./assets/Screenshot 2024-09-21 101348.png>) 
-
+![alt text](<./assets/chat (1).png>) 
+![alt text](<./assets/chat (2).png>) 
+![alt text](<./assets/chat (3).png>) 
+![alt text](<./assets/chat (4).png>) 
+![alt text](<./assets/chat (5).png>) 
+![alt text](<./assets/chat (6).png>) 
 
 **Technology Stack**
 --------------------
