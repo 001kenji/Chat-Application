@@ -55,5 +55,5 @@ B-Intel Chat-App is a comprehensive chat application designed to streamline comm
 
 :computer: **Frontend**: React, JavaScript, Tailwind CSS<br>
 :snake: **Backend**: Python (Django), PostgreSQL, Redis(server side rendering)<br>
-:database: **Database**: PostgreSQL<br>
+🛢: **Database**: PostgreSQL<br>
 :signal_strength: **Real-time Communication**: Redis<br>
